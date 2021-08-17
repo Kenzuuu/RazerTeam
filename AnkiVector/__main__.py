@@ -64,7 +64,7 @@ from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
 Hello there, I'm Isabella
-I'm a Powerful group manager bot With Cool Modules. Made by [𝓓𝓪𝓶𝓪𝓷𝓽𝓱𝓪 𝓙𝓪𝓼𝓲𝓷𝓰𝓱𝓮• 🇱🇰](t.me/Damantha_Jasinghe)
+I'm a Powerful group manager bot With Cool Modules. Made by [Thilina2003](t.me/Thilina2003)
 Hit /help to find my list of available commands
  
 """
@@ -94,10 +94,10 @@ buttons = [
     ],
 ]
 
-ANKIVECTOR_IMG = "https://telegra.ph/file/6082131392cb385f7c89a.jpg"
+ANKIVECTOR_IMG = "https://telegra.ph/file/563a7d5fcf06c5a74bdd1.jpg"
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/6082131392cb385f7c89a.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/563a7d5fcf06c5a74bdd1.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
