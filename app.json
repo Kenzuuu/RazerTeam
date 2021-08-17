@@ -1,7 +1,7 @@
 {
-      "name": "The Anki Vector",
+      "name": "Isabella",
       "description": "An Anime themed Telegram group management bot.",
-      "logo": "https://telegra.ph/file/e10a45d0433a1ab6fed7b.jpg",
+      "logo": "https://telegra.ph/file/563a7d5fcf06c5a74bdd1.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -9,7 +9,7 @@
          "manager",
          "Ankivector"
       ],   
-   "repository": "https://github.com/Damantha126/The-Anki-Vector",
+   "repository": "https://github.com/Thilinaweerasekara2003/Isabella",
    "addons": [
       {
          "options": {
@@ -180,6 +180,6 @@
       "manager",
       "daisy"
    ],
-   "name": "Ankivector",
-   "repository": "https://github.com/Damantha126/The-Anki-Vector"
+   "name": "Isabella",
+   "repository": "https://github.com/Thilinaweerasekara2003/Isabella"
 }
