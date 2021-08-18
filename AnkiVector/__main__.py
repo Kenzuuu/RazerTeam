@@ -94,7 +94,7 @@ buttons = [
     ],
 ]
 
-ANKIVECTOR_IMG = "https://telegra.ph/file/563a7d5fcf06c5a74bdd1.jpg"
+Isabella_IMG = "https://telegra.ph/file/563a7d5fcf06c5a74bdd1.jpg"
 
 HELP_STRINGS = f"""
 *Main Commands :* [🤖](https://telegra.ph/file/563a7d5fcf06c5a74bdd1.jpg)
