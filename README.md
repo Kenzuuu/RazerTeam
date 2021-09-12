@@ -1,8 +1,8 @@
-## The Isabella Based on Python Telegram Bot ![GitHub repo size](https://img.shields.io/github/repo-size/Damantha126/The-Anki-Vector?label=Repo%20Size) ![Last Commit](https://img.shields.io/github/last-commit/damantha126/the-anki-vector?color=red&label=Last%20commit&logo=damantha&logoColor=green)
+##     The Isabella Based on Python Telegram Bot ![GitHub repo size](https://img.shields.io/github/repo-size/Damantha126/The-Anki-Vector?label=Repo%20Size) ![Last Commit](https://img.shields.io/github/last-commit/damantha126/the-anki-vector?color=red&label=Last%20commit&logo=damantha&logoColor=green)
 <p align="center">
   <img src="https://telegra.ph/file/563a7d5fcf06c5a74bdd1.jpg" width='600"'>
 </p>
-# 2 Branches available. this is main brach. swith advaced fr all fetures
+      # 2 Branches available. this is main brach. swith advaced fr all fetures
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ThilinaWeerasekara2003/Isabella.git)
 
