@@ -8,7 +8,7 @@ __help__ = """
 
 * 🟡For Channel Music Play🟡 *
 
-1) Make @TheAnkiVectorMusicBot admin of your channel 
+1) Make @Miss_IsabellaMusic_bot admin of your channel 
 2) Send /userbotjoinchannel in linked group
 3) Now send commands in linked group 
 
@@ -57,14 +57,14 @@ channel is also can be used instead of c ( /cplay = /channelplay )
 * ⚫️More tools⚫️ *
 
 • /admincache: Updates admin info of your group. Try if bot isn't recognize admin
-• /userbotjoin: Invite @AnkivectorMusicbot Userbot to your chat 
+• /userbotjoin: Invite @Miss_IsabellaMusic_bot Userbot to your chat 
  
 * 🔷Assisten🔷 *
 
-@AnkivectorMusicbot
+@Miss_IsabellaMusic_bot
 
 * 🔸Bot🔸 *
 
-@TheAnkiVectorMusicBot
+@Miss_IsabellaMusic_bot
 """
 __mod_name__ = "Music Play"
