@@ -7,8 +7,8 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ThilinaWeerasekara2003/Isabella.git)
 
 
-### Video Tutorial:
-Complete guide on deploying @TheAnkiVectorbot's clone on Heroku.
+###Video Tutorial:
+Complete guide on deploying @Miss_Isabella_Robot's clone on Heroku.
 
 [![Tutorial](https://yt-embed.herokuapp.com/embed?v=fXXEcAkWAFU)](https://www.youtube.com/watch?v=fXXEcAkWAFU)
 
