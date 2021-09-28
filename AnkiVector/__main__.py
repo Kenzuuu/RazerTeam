@@ -63,8 +63,8 @@ from AnkiVector.modules.helper_funcs.misc import paginate_modules
 from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm Isabella
-I'm a Powerful group manager bot With Cool Modules. Made by [★彡Gang Of Mafia Assistant彡 ـــ٨ـہہـ♡ـ٨ـہ❤️](http://t.me/GangOfMafiaAssistant)
+Hello there, I'm Isabella❤️
+I'm a Powerful group manager bot With Cool Modules. Made by [Thilina](http://t.me/Thilina200)
 Hit /help to find my list of available commands
  
 """
