@@ -83,7 +83,7 @@ buttons = [
             text="📜Source", url="https://www.youtube.com/watch?v=fXXEcAkWAFU"
         ),
         InlineKeyboardButton(
-            text="❔ Help", url="https://t.me/Miss_Isabella_Bot?start=help"
+            text="❔ Help", url="https://t.me/Miss_Isabella_Robot?start=help"
         ),
     ],
     [
