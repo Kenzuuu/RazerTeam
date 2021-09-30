@@ -1,5 +1,5 @@
 __help__ = """
-** Anki Vector - A Powerful Telegram Group Manager 🎶 **
+** Isabella  - A Powerful Telegram Group Manager 🎶 **
 
 Powerful Abilities
 
@@ -9,6 +9,6 @@ Powerful Abilities
 
 • Youtube Downloader 🎵
 
-Developer [Damantha🇱🇰](https://t.me/Damantha_Jasinghe)
+Developer [Thilina�](https://t.me/Thilina)
 """
 __mod_name__ = "About"
