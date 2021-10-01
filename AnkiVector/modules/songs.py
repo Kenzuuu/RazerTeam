@@ -62,7 +62,7 @@ async def song(client, message):
         LOGGER.error(ex)
         return ""
     os.rename(download, f"{str(user_id)}.mp3")
-    await pbot.send_chat_action(message.chat.id, "upload_audio")
+    await pbot.send_chat_action(message.chat.id, "Song From Isabella Music!")
     await pbot.send_audio(
         chat_id=message.chat.id,
         audio=f"{str(user_id)}.mp3",
