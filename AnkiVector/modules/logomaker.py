@@ -1,4 +1,4 @@
-from AnkiVEctor.events import register
+from AnkiVector.events import register
 from AnkiVector import OWNER_ID
 from AnkiVector import telethn as tbot
 import os 
