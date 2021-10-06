@@ -337,7 +337,7 @@ async def lego(event):
     if os.path.exists(fname2):
             os.remove(fname2)
  except Exception as e:
-   await event.reply(f'Error Go to Help From @isabellasupport, {e}')
+   await event.reply(f'Error Go to Help From  @isabellasupport, {e}')
   
 
 @register(pattern="^/spiderlogo ?(.*)")
