@@ -28,10 +28,10 @@ All other credits mentioned on top of scripts
 
 Should any be missing kindly let us know at [Isabella bot](https://t.me/hitecobotchanal) or simply submit a pull request on the readme.
 
-## The Anki Vector bot the telegram Bot Project
+## Isabella  bot the telegram Bot Project
 The Advanced Branch (For PRO's)
 
-The Anki Vector bot(advanced)
+Isabella bot(advanced)
 
 # Contributors
 
