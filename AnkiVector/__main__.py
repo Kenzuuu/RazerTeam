@@ -64,7 +64,7 @@ from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
 Hello there, I'm Isabella❤️
-I'm a Powerful group manager bot With Cool Modules. Made by [Thilina](http://t.me/Thilina200)
+I'm a Powerful group manager bot With Cool Modules. Made by [Thilina](http://t.me/Thilina2030)
 Hit /help to find my list of available commands
  
 """
@@ -72,10 +72,10 @@ Hit /help to find my list of available commands
 buttons = [
     [
         InlineKeyboardButton(
-            text="📢Updates Channel", url="https://t.me/hitecobotchanal"
+            text="📢Updates Channel", url="https://t.me/Isabellaupdate"
         ),
         InlineKeyboardButton(
-            text="👥 Support Group", url="https://t.me/HITecRobot"
+            text="👥 Support Group", url="https://t.me/Isabellasupport"
         ),
     ],
     [
