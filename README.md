@@ -1,4 +1,4 @@
-##     The Isabella Based on Python Telegram Bot ![GitHub repo size](https://img.shields.io/github/repo-size/Damantha126/The-Anki-Vector?label=Repo%20Size) ![Last Commit](https://img.shields.io/github/last-commit/damantha126/the-anki-vector?color=red&label=Last%20commit&logo=damantha&logoColor=green)
+##     The Isabella Based on Python Telegram Bot ![GitHub repo size](https://img.shields.io/github/repo-size/Thilinaweerasekara2003/Isabella?label=Repo%20Size) ![Last Commit](https://img.shields.io/github/last-commit/Thilinaweerasekara2003/Isabella?color=red&label=Last%20commit&logo=Thilinaweerasekara2003&logoColor=green)
 <p align="center">
   <img src="https://telegra.ph/file/563a7d5fcf06c5a74bdd1.jpg" width='600"'>
 </p>
@@ -6,14 +6,6 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ThilinaWeerasekara2003/Isabella.git)
 
-
-###Video Tutorial:
-Complete guide on deploying @Miss_Isabella_Robot's clone on Heroku.
-
-[![Tutorial](https://yt-embed.herokuapp.com/embed?v=fXXEcAkWAFU)](https://www.youtube.com/watch?v=fXXEcAkWAFU)
-
-☆ Video by [Damantha Jasinghe](https://www.youtube.com/watch?v=fXXEcAkWAFU) ☆
-[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://www.youtube.com/watch?v=fXXEcAkWAFU)
 
 ## New version Avaiilable on Telegram as [Isabella Bot](http://t.me/Miss_Isabella_Bot)
 ## The-Anki-Vector-Bot is the latest
@@ -35,7 +27,7 @@ Isabella bot(advanced)
 
 # Contributors
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Damantha126/the-anki-vector)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=Thilinaweerasekara2003/Isabella)
 
 # Special Credits ❤
 
