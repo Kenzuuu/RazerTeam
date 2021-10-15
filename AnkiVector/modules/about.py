@@ -9,6 +9,6 @@ Powerful Abilities
 
 • Youtube Downloader 🎵
 
-Developer [Thilina�](https://t.me/Thilina200)
+Developer [Thilina�](https://t.me/Thilina2004)
 """
 __mod_name__ = "About"
