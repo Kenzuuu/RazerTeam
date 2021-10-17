@@ -124,7 +124,7 @@ def chatbot(update: Update, context: CallbackContext):
             # bot.send_message(OWNER_ID,
             #                 f"Chatbot error: {e} occurred in {chat_id}!")
             @run_async
-def list_chatbot_chats(update: Update, context: CallbackContext):
+    def list_chatbot_chats(update: Update, context: CallbackContext):
     chats = sql.get_all_chats()
     text = "<b>AI-Enabled Chats</b>\n"
     for chat in chats:
