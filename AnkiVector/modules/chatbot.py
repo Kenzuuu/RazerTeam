@@ -122,7 +122,7 @@ def chatbot(update: Update, context: CallbackContext):
         except CFError:
             pass
             # bot.send_message(OWNER_ID,
-            #                 f"Chatbot error: {e} occurred in {chat_id}!")
+            # f"Chatbot error: {e} occurred in {chat_id}!")
             @run_async
     def list_chatbot_chats(update: Update, context: CallbackContext):
     chats = sql.get_all_chats()
