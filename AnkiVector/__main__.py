@@ -31,8 +31,10 @@ from telegram.ext import (
     Filters,
     MessageHandler,
 )
+from AnkiVector.modules.system import bot_sys_stats
 from telegram.ext.dispatcher import DispatcherHandlerStop, run_async
 from telegram.utils.helpers import escape_markdown
+from AnkiVector import pbot
 
 from AnkiVector import (
     ALLOW_EXCL,
@@ -49,7 +51,6 @@ from AnkiVector import (
     WHITELIST_CHATS,
     StartTime,
     dispatcher,
-    pbot,
     telethn,
     updater,
 )
@@ -236,10 +237,13 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_text(
-            "I'm awake already!\n<b>Haven't slept since:</b> <code>{}</code>".format(
+            "<b>Heya, Isabella here :) PM me if you have any questions how to use me!</b>".format(
                 uptime
             ),
             parse_mode=ParseMode.HTML,
+            reply_markup=InlineKeyboardMarkup(
+                [[InlineKeyboardButton(text="System Stats 💻", callback_data="stats_callback")]],
+            ),
         )
 
 
@@ -506,7 +510,11 @@ def AnkiVector_about_callback(update, context):
             ),
         )
 
-
+@pbot.on_callback_query(filters.regex("stats_callback"))
+async def stats_callbacc(_, CallbackQuery):
+    text = await bot_sys_stats()
+    await pbot.answer_callback_query(CallbackQuery.id, text, show_alert=True)
+        
 @run_async
 @typing_action
 def get_help(update, context):
