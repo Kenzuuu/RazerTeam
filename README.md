@@ -1,4 +1,4 @@
-##     The Isabella Based on Python Telegram Bot ![GitHub repo size](https://img.shields.io/github/repo-size/Thilinaweerasekara2003/Isabella?label=Repo%20Size) ![Last Commit](https://img.shields.io/github/last-commit/Thilinaweerasekara2003/Isabella?color=red&label=Last%20commit&logo=Thilinaweerasekara2003&logoColor=green)
+##  The Isabella Based on Python Telegram Bot ![GitHub repo size](https://img.shields.io/github/repo-size/Thilinaweerasekara2003/Isabella?label=Repo%20Size) ![Last Commit](https://img.shields.io/github/last-commit/Thilinaweerasekara2003/Isabella?color=red&label=Last%20commit&logo=Thilinaweerasekara2003&logoColor=green)
 <p align="center">
   <img src="https://telegra.ph/file/563a7d5fcf06c5a74bdd1.jpg" width='600"'>
 </p>
@@ -9,8 +9,6 @@
 
 ## New version Avaiilable on Telegram as [Isabella Bot](http://t.me/Miss_Isabella_Bot)
 ## The-Anki-Vector-Bot is the latest
-
-
 
 
 The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
@@ -26,12 +24,9 @@ The Advanced Branch (For PRO's)
 Isabella bot(advanced)
 
 # Contributors
-
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=Thilinaweerasekara2003/Isabella)
 
 # Special Credits ❤
-
-
 - **[Inuka Asith](https://github.com/inukaasith)** 
 - **[Prabasha](https://github.com/prabhasha-p/)** 
 - **[ImJanindu](https://github.com/imjanindu)** 
@@ -43,5 +38,6 @@ Isabella bot(advanced)
 - **[TroJanzHEX](https://github.com/TroJanzHEX/)**
 - **[TeamDaisyx](https://github.com/teamdaisyx)**
 - **[Team/SDBOTs](https://github.com/TeamSDBOTs)**
+
 ## Credits
 - [Damantha Jasinghe](https://github.com/Damantha126) - A Owner of Project
