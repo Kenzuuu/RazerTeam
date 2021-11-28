@@ -480,6 +480,13 @@ __help__ = """
  ✪ /highpromote: Promote a member with max rights
  ✪ /lowdemote: Demote an admin to low permissions
  ✪ /middemote: Demote an admin to mid permissions
+ <b>Other</b>
+ ✪ /invitelink: Get chat's invite link
+ ✪ /settitle <code>[entity] [title]</code>: Sets a custom title for an admin. If no <code>[title]</code> provided defaults to "Admin"
+ ✪ /setgrouptitle <code>[text]</code>: Set group title
+✪  /setgrouppic: reply to an image to set as group photo
+✪  /setdescription: Set group description
+✪  /setsticker: Set group sticker
 """
 
 ADMINLIST_HANDLER = DisableAbleCommandHandler("admins", adminlist)
