@@ -475,6 +475,11 @@ __help__ = """
  ✪ /title <title here>*:* sets a custom title for an admin that the bot promoted
  ✪ /admincache*:* force refresh the admins list
  ✪ /zombies*:* scan and clean zombies
+ ✪ /lowpromote*:* Promote a member with low rights
+ ✪ /midpromote: Promote a member with mid rights
+ ✪ /highpromote: Promote a member with max rights
+ ✪ /lowdemote: Demote an admin to low permissions
+ ✪ /middemote: Demote an admin to mid permissions
 """
 
 ADMINLIST_HANDLER = DisableAbleCommandHandler("admins", adminlist)
